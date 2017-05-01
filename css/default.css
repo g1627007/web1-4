@@ -18,6 +18,6 @@ p.count2{
 }
 body{
     background-color:#fffacd; /*背景色を変える*/
-    background-image: url("IMG_0023.JPG");
+    background-image: url(IMG_0023.JPG);
     background-repeat: repeat-x;
 }
