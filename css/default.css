@@ -18,4 +18,5 @@ li{
 body{
     background-color:#fffacd;
     background-image: url(img.jpg);
+    background-repeat: repeat-x;
 }
