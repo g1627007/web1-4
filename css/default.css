@@ -11,3 +11,6 @@ p{
 li{
     font-size: 0.8em;
 }
+body{
+    background-img:url(img.jpg);
+}
