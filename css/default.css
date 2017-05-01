@@ -11,8 +11,9 @@ count1{
 }
 p.count2{
     font-size: 0.8em;
-    width: 400px; height: 50px;
-    border: solid #FFFFFFFF;
+    width: 400px;
+    height: 50px;
+    border: 1px solid #FFFFFFFF;
     background-color:#F2F2F2;
 }
 body{
