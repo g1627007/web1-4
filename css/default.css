@@ -3,21 +3,21 @@ h1{
     font-size: 0.8em;
 }
 h1 span{
-    font-size: 2em;
+    font-size: 2em; /*先頭の文字だけ大きくする*/
 }
 count1{
     font-size: 0.8em;
-    font-weight: bold;
+    font-weight: 700;/*文字を太文字に*/
 }
 p.count2{
     font-size: 0.8em;
     width: 400px;
     height: 50px;
     border: 1px solid #FFFFFFFF;
-    background-color:#F2F2F2;
+    background-color:#F2F2F2; /*境界線の枠をつける*/
 }
 body{
-    background-color:#fffacd;
+    background-color:#fffacd; /*背景色を変える*/
     background-image: url("IMG_0023.JPG");
     background-repeat: repeat-x;
 }
