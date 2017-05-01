@@ -1,15 +1,7 @@
 @charset "UTF-8"; 
-body{
-    background-color:#fffacd;
-    background-image:url(img.jpg);
-    background-repeat:repeat-x;
-}
 h1{
     font-size: 1.75em;
     color:#FA5858;
-}
-h1 span{
-    color:#0040FF;
 }
 h2{
     font-size: 1.25em;
@@ -19,15 +11,11 @@ p{
     font-size: 0.8em;
     color:#F5A9A9;
 }
-p.greeting{
-    font-size:0.8em;
-    color:#F5A9A9;
-}
-#lead{
-    font-size:0.8em;
-    color:#F5A9A9;
-}
 li{
     font-size: 0.8em;
 }
-
+body{
+    background-color:#fffacd;
+    background-image:url(img.jpg);
+    background-repeat:repeat-x;
+}
