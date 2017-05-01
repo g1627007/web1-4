@@ -12,6 +12,10 @@ count1{
     font-size: 2em;
     font-weight: bold;
 }
+p.count2{
+    font-size: 2em;
+    width: 400px; height: 50px;
+}
 li{
     font-size: 0.8em;
 }
