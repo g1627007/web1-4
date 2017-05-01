@@ -1,6 +1,8 @@
 @charset "UTF-8"; 
 body{
     background-color:#fffacd;
+    background-image:url(img.jpg);
+    background-repeat:repeat-x;
 }
 h1{
     font-size: 1.75em;
@@ -15,6 +17,14 @@ h2{
 }
 p{
     font-size: 0.8em;
+    color:#F5A9A9;
+}
+p.greeting{
+    font-size:0.8em;
+    color:#F5A9A9;
+}
+#lead{
+    font-size:0.8em;
     color:#F5A9A9;
 }
 li{
