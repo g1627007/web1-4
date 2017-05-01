@@ -12,7 +12,7 @@ count1{
 p.count2{
     font-size: 0.8em;
     width: 400px; height: 50px;
-    color:#FFFFFF;
+    border: solid #FFFFFFFF;
     background-color:#F2F2F2;
 }
 body{
